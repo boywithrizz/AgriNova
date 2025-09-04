@@ -1,0 +1,21 @@
+{
+  "nav.home": "ಮುಖಪುಟ",
+  "nav.dashboard": "ಡ್ಯಾಶ್‌ಬೋರ್ಡ್",
+  "nav.contact": "ಸಂಪರ್ಕ",
+  "language": "ಭಾಷೆ",
+  "cta.getStarted": "ಡ್ಯಾಶ್‌ಬೋರ್ಡ್ ತೆರೆಯಿರಿ",
+  "hero.title": "ಎಐ ಆಧಾರಿತ ಬೆಳೆ ಶಿಫಾರಸು",
+  "hero.subtitle": "ಪ್ರತಿ ರೈತನಿಗೂ ಸರಳ ಸ್ಥಳೀಯ ಮಾರ್ಗದರ್ಶನ.",
+  "dashboard.title": "ರೈತ ಡ್ಯಾಶ್‌ಬೋರ್ಡ್",
+  "cards.soil": "ಮಣ್ಣಿನ ಸ್ಥಿತಿ",
+  "cards.weather": "ಹವಾಮಾನ",
+  "cards.recommendations": "ಎಐ ಶಿಫಾರಸುಗಳು",
+  "cards.market": "ಮಾರುಕಟ್ಟೆ ಪ್ರವೃತ್ತಿಗಳು",
+  "cards.rotation": "ಹಿಂದಿನ ಬೆಳೆ ಪರಿವರ್ತನೆ",
+  "query.ask": "ಪ್ರಶ್ನೆ ಕೇಳಿ…",
+  "query.voice": "ಧ್ವನಿ",
+  "query.image": "ಚಿತ್ರ",
+  "query.send": "ಕಳುಹಿಸಿ",
+  "contact.title": "ಸಂಪರ್ಕ ಮತ್ತು ಸಹಭಾಗಿತ್ವ",
+  "contact.body": "ಸರ್ಕಾರ್/ಎನ್‌ಜಿಒ ಪೈಲಟ್‌ಗಳಿಗೆ ಇಮೇಲ್ ಮಾಡಿ."
+}

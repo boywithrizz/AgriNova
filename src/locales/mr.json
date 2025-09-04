@@ -1,0 +1,21 @@
+{
+  "nav.home": "मुख्यपृष्ठ",
+  "nav.dashboard": "डॅशबोर्ड",
+  "nav.contact": "संपर्क",
+  "language": "भाषा",
+  "cta.getStarted": "डॅशबोर्ड उघडा",
+  "hero.title": "एआय-आधारित पिक शिफारस",
+  "hero.subtitle": "प्रत्येक शेतकऱ्यासाठी सोपी आणि स्थानिक मार्गदर्शन.",
+  "dashboard.title": "शेतकरी डॅशबोर्ड",
+  "cards.soil": "मातीक स्थिती",
+  "cards.weather": "हवामान",
+  "cards.recommendations": "एआय शिफारसी",
+  "cards.market": "बाजार प्रवृत्ती",
+  "cards.rotation": "मागील पीक फेरपालट",
+  "query.ask": "प्रश्न विचारा…",
+  "query.voice": "आवाज",
+  "query.image": "चित्र",
+  "query.send": "पाठवा",
+  "contact.title": "संपर्क आणि भागीदारी",
+  "contact.body": "शासन/एनजीओ पायलटसाठी ईमेल करा."
+}

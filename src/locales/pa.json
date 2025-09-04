@@ -1,0 +1,21 @@
+{
+  "nav.home": "ਘਰ",
+  "nav.dashboard": "ਡੈਸ਼ਬੋਰਡ",
+  "nav.contact": "ਸੰਪਰਕ",
+  "language": "ਭਾਸ਼ਾ",
+  "cta.getStarted": "ਡੈਸ਼ਬੋਰਡ ਖੋਲ੍ਹੋ",
+  "hero.title": "ਏਆਈ-ਅਧਾਰਤ ਫਸਲ ਸਿਫ਼ਾਰਸ਼",
+  "hero.subtitle": "ਹਰ ਕਿਸਾਨ ਲਈ ਸਧਾਰਣ ਅਤੇ ਸਥਾਨਕ ਮਾਰਗਦਰਸ਼ਨ।",
+  "dashboard.title": "ਕਿਸਾਨ ਡੈਸ਼ਬੋਰਡ",
+  "cards.soil": "ਮਿੱਟੀ ਦੀ ਸਥਿਤੀ",
+  "cards.weather": "ਮੌਸਮ",
+  "cards.recommendations": "ਏਆਈ ਸਿਫ਼ਾਰਸ਼ਾਂ",
+  "cards.market": "ਬਜ਼ਾਰ ਦੇ ਰੁਝਾਨ",
+  "cards.rotation": "ਪਿਛਲਾ ਫਸਲ ਰੋਟੇਸ਼ਨ",
+  "query.ask": "ਸਵਾਲ ਪੁੱਛੋ…",
+  "query.voice": "ਆਵਾਜ਼",
+  "query.image": "ਤਸਵੀਰ",
+  "query.send": "ਭੇਜੋ",
+  "contact.title": "ਸੰਪਰਕ ਅਤੇ ਭਾਈਚਾਰਾ",
+  "contact.body": "ਸਰਕਾਰ/ਐਨਜੀਓ ਪਾਇਲਟ ਲਈ ਈਮੇਲ ਕਰੋ।"
+}

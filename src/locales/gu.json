@@ -1,0 +1,21 @@
+{
+  "nav.home": "હોમ",
+  "nav.dashboard": "ડેશબોર્ડ",
+  "nav.contact": "સંપર્ક",
+  "language": "ભાષા",
+  "cta.getStarted": "ડેશબોર્ડ ખોલો",
+  "hero.title": "એઆઈ આધારિત પાક ભલામણ",
+  "hero.subtitle": "દરેક ખેડૂત માટે સરળ અને સ્થાનિક માર્ગદર્શન.",
+  "dashboard.title": "ખેડૂત ડેશબોર્ડ",
+  "cards.soil": "માટી સ્થિતિ",
+  "cards.weather": "હવામાન",
+  "cards.recommendations": "એઆઈ ભલામણો",
+  "cards.market": "બજાર વલણ",
+  "cards.rotation": "ભૂતકાળ પાક ફેરબદલ",
+  "query.ask": "પ્રશ્ન પૂછો…",
+  "query.voice": "વોઇસ",
+  "query.image": "છબી",
+  "query.send": "મોકલો",
+  "contact.title": "સંપર્ક અને ભાગીદારી",
+  "contact.body": "સરકાર/એનજીઓ પાયલોટ માટે ઇમેલ કરો."
+}

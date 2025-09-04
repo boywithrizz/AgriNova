@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    { "crop": "Wheat", "yield": 22, "profit": 18, "sustainability": 82 },
+    { "crop": "Rice", "yield": 28, "profit": 15, "sustainability": 78 },
+    { "crop": "Mustard", "yield": 10, "profit": 24, "sustainability": 88 },
+    { "crop": "Chickpea", "yield": 12, "profit": 20, "sustainability": 90 },
+    { "crop": "Maize", "yield": 18, "profit": 16, "sustainability": 80 }
+  ]
+}

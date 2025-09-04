@@ -1,0 +1,21 @@
+{
+  "nav.home": "Home",
+  "nav.dashboard": "Dashboard",
+  "nav.contact": "Contact",
+  "language": "Language",
+  "cta.getStarted": "Open Dashboard",
+  "hero.title": "AI-Based Crop Recommendation",
+  "hero.subtitle": "Personalized, local, and simple guidance for every farmer.",
+  "dashboard.title": "Farmer Dashboard",
+  "cards.soil": "Soil Snapshot",
+  "cards.weather": "Weather",
+  "cards.recommendations": "AI Recommendations",
+  "cards.market": "Market Trends",
+  "cards.rotation": "Past Crop Rotation",
+  "query.ask": "Ask a question…",
+  "query.voice": "Voice",
+  "query.image": "Image",
+  "query.send": "Send",
+  "contact.title": "Contact & Partnerships",
+  "contact.body": "For pilots with governments/NGOs, reach out via email."
+}

@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* App base styles */
+:root {
+  color-scheme: light;
+}
+
+html, body, #root { height: 100%; }
+
+/* Utility for card */
+.card {
+  @apply bg-white dark:bg-gray-900 rounded-xl shadow-card border border-gray-100 dark:border-gray-800;
+}

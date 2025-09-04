@@ -1,0 +1,7 @@
+{
+  "history": [
+    { "season": "Kharif 2023", "crop": "Rice" },
+    { "season": "Rabi 2023", "crop": "Wheat" },
+    { "season": "Zaid 2024", "crop": "Maize" }
+  ]
+}

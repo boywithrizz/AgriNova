@@ -1,0 +1,9 @@
+{
+  "forecast": [
+    { "day": "Tue", "temp": 31, "condition": "Sunny" },
+    { "day": "Wed", "temp": 29, "condition": "Cloudy" },
+    { "day": "Thu", "temp": 27, "condition": "Rain" },
+    { "day": "Fri", "temp": 28, "condition": "Partly" },
+    { "day": "Sat", "temp": 30, "condition": "Sunny" }
+  ]
+}

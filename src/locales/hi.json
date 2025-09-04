@@ -1,0 +1,21 @@
+{
+  "nav.home": "होम",
+  "nav.dashboard": "डैशबोर्ड",
+  "nav.contact": "संपर्क",
+  "language": "भाषा",
+  "cta.getStarted": "डैशबोर्ड खोलें",
+  "hero.title": "एआई आधारित फ़सल सिफारिश",
+  "hero.subtitle": "हर किसान के लिए सरल और स्थानीय सलाह।",
+  "dashboard.title": "किसान डैशबोर्ड",
+  "cards.soil": "मिट्टी का सार",
+  "cards.weather": "मौसम",
+  "cards.recommendations": "एआई सिफारिशें",
+  "cards.market": "बाज़ार रुझान",
+  "cards.rotation": "फसल चक्र इतिहास",
+  "query.ask": "प्रश्न पूछें…",
+  "query.voice": "आवाज़",
+  "query.image": "चित्र",
+  "query.send": "भेजें",
+  "contact.title": "संपर्क व भागीदारी",
+  "contact.body": "सरकार/एनजीओ के साथ पायलट हेतु, ईमेल करें।"
+}

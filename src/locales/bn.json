@@ -1,0 +1,21 @@
+{
+  "nav.home": "হোম",
+  "nav.dashboard": "ড্যাশবোর্ড",
+  "nav.contact": "যোগাযোগ",
+  "language": "ভাষা",
+  "cta.getStarted": "ড্যাশবোর্ড খুলুন",
+  "hero.title": "এআই-ভিত্তিক ফসল সুপারিশ",
+  "hero.subtitle": "প্রতিটি কৃষকের জন্য সহজ স্থানীয় নির্দেশনা।",
+  "dashboard.title": "কৃষক ড্যাশবোর্ড",
+  "cards.soil": "মাটির অবস্থা",
+  "cards.weather": "আবহাওয়া",
+  "cards.recommendations": "এআই সুপারিশ",
+  "cards.market": "বাজার প্রবণতা",
+  "cards.rotation": "পূর্ববর্তী ফসল রোটেশন",
+  "query.ask": "একটি প্রশ্ন করুন…",
+  "query.voice": "ভয়েস",
+  "query.image": "ছবি",
+  "query.send": "পাঠান",
+  "contact.title": "যোগাযোগ ও অংশীদারিত্ব",
+  "contact.body": "সরকার/এনজিও পাইলটের জন্য ইমেল করুন।"
+}

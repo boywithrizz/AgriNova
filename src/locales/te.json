@@ -1,0 +1,21 @@
+{
+  "nav.home": "మొదటి పేజీ",
+  "nav.dashboard": "డాష్‌బోర్డు",
+  "nav.contact": "సంప్రదించండి",
+  "language": "భాష",
+  "cta.getStarted": "డాష్‌బోర్డ్ తెరవండి",
+  "hero.title": "ఏఐ ఆధారిత పంట సిఫార్సు",
+  "hero.subtitle": "ప్రతి రైతుకు సులభమైన స్థానిక మార్గదర్శకం.",
+  "dashboard.title": "రైతు డాష్‌బోర్డు",
+  "cards.soil": "మట్టి స్థితి",
+  "cards.weather": "వాతావరణం",
+  "cards.recommendations": "ఏఐ సిఫార్సులు",
+  "cards.market": "మార్కెట్ ధోరణులు",
+  "cards.rotation": "గత పంట మార్పిడి",
+  "query.ask": "ప్రశ్న అడగండి…",
+  "query.voice": "వాయిస్",
+  "query.image": "చిత్రం",
+  "query.send": "పంపండి",
+  "contact.title": "సంప్రదించండి & భాగస్వామ్యం",
+  "contact.body": "ప్రభుత్వం/ఎన్జిఒ పైలట్ల కోసం ఇమెయిల్ పంపండి."
+}

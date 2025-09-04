@@ -1,0 +1,10 @@
+{
+  "prices": [
+    { "month": "Jan", "wheat": 18.5, "rice": 22.1 },
+    { "month": "Feb", "wheat": 19.2, "rice": 21.9 },
+    { "month": "Mar", "wheat": 19.8, "rice": 22.5 },
+    { "month": "Apr", "wheat": 20.3, "rice": 22.9 },
+    { "month": "May", "wheat": 21.1, "rice": 23.2 },
+    { "month": "Jun", "wheat": 20.8, "rice": 23.0 }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "nav.home": "முகப்பு",
+  "nav.dashboard": "டாஷ்போர்டு",
+  "nav.contact": "தொடர்பு",
+  "language": "மொழி",
+  "cta.getStarted": "டாஷ்போர்டை திறக்க",
+  "hero.title": "ஏஐ அடிப்படையிலான பயிர் பரிந்துரை",
+  "hero.subtitle": "ஒவ்வொரு விவசாயிக்கும் எளிய உள்ளூர் வழிகாட்டுதல்.",
+  "dashboard.title": "விவசாயி டாஷ்போர்டு",
+  "cards.soil": "மண் நிலை",
+  "cards.weather": "வானிலை",
+  "cards.recommendations": "ஏஐ பரிந்துரைகள்",
+  "cards.market": "சந்தை போக்கு",
+  "cards.rotation": "முந்தைய பயிர் சுழற்சி",
+  "query.ask": "ஒரு கேள்வி கேளுங்கள்…",
+  "query.voice": "குரல்",
+  "query.image": "படம்",
+  "query.send": "அனுப்பு",
+  "contact.title": "தொடர்பு மற்றும் கூட்டாண்மை",
+  "contact.body": "அரசு/என்ஜிஒ பைலட்டுகளுக்குத் மின்னஞ்சல் செய்யவும்."
+}
